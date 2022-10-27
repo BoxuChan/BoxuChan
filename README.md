@@ -161,18 +161,21 @@ Frameworks & Libraries
   
 Extra IT Softwares
 
+![](https://img.shields.io/badge/-⠀Adminer⠀-%23000000?style=flat-square&logo=adminer)
 ![](https://img.shields.io/badge/-⠀Arduino⠀-%23000000?style=flat-square&logo=arduino)
-![](https://img.shields.io/badge/-⠀Maven⠀-%23000000?style=flat-square&logo=apachemaven)
+![](https://img.shields.io/badge/-⠀Cucumber⠀-%23000000?style=flat-square&logo=cucumber)
 ![](https://img.shields.io/badge/-⠀AutoHotkey⠀-%23000000?style=flat-square&logo=autohotkey)
 ![](https://img.shields.io/badge/-⠀Git⠀-%23000000?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/-⠀GitHub⠀-%23000000?style=flat-square&logo=github)
 ![](https://img.shields.io/badge/-⠀GitLab⠀-%23000000?style=flat-square&logo=gitlab)
+![](https://img.shields.io/badge/-⠀Jenkins⠀-%23000000?style=flat-square&logo=jenkins)
 ![](https://img.shields.io/badge/-⠀LaTeX⠀-%23000000?style=flat-square&logo=latex)
+![](https://img.shields.io/badge/-⠀Maven⠀-%23000000?style=flat-square&logo=apachemaven)
 ![](https://img.shields.io/badge/-⠀NPM⠀-%23000000?style=flat-square&logo=npm)
+![](https://img.shields.io/badge/-⠀Oracle⠀-%23000000?style=flat-square&logo=oracle)
 ![](https://img.shields.io/badge/-⠀PHPMyAdmin⠀-%23000000?style=flat-square&logo=phpmyadmin)
 ![](https://img.shields.io/badge/-⠀Virtual%20Box⠀-%23000000?style=flat-square&logo=virtualbox)
 ![](https://img.shields.io/badge/-⠀WordPress⠀-%23000000?style=flat-square&logo=wordpress)
-![](https://img.shields.io/badge/-⠀Adminer⠀-%23000000?style=flat-square&logo=adminer)
 
 IDE Softwares
 
@@ -184,6 +187,7 @@ IDE Softwares
 ![](https://img.shields.io/badge/-⠀Jupyter⠀-%23000000?style=flat-square&logo=jupyter)
 ![](https://img.shields.io/badge/-⠀Notepad++⠀-%23000000?style=flat-square&logo=notepadplusplus)
 ![](https://img.shields.io/badge/-⠀Sublime%20Text⠀-%23000000?style=flat-square&logo=sublimetext)
+![](https://img.shields.io/badge/-⠀VIM⠀-%23000000?style=flat-square&logo=vim)
 ![](https://img.shields.io/badge/-⠀Visual%20Studio⠀-%23000000?style=flat-square&logo=visualstudio)
 ![](https://img.shields.io/badge/-⠀Visual%20Studio%20Code⠀-%23000000?style=flat-square&logo=visualstudiocode)
 
