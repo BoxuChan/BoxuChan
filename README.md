@@ -1,5 +1,14 @@
 # 【⠀プロフィールへようこそ⠀】 ・⠀𝙰𝚒𝚢𝚊 𝙷𝚊𝚔𝚘𝚖𝚘𝚛𝚒
 
+<div>
+<div style="float:left; width:45%;">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/424901159824785409?animated=true&idleMessage=Peeking%20on%20me%20huh%3F%20Shame%20on%20you%2C%20I%27m%20not%20doing%20anything)](https://discord.com/users/424901159824785409)
+  
+</div>
+
+<div style="float:left; width:45%;">
+  
 [![](https://img.shields.io/badge/-⠀Twitch⠀-%23000000?style=for-the-badge&logo=twitch&color=6441a5&logoColor=ffffff)](https://twitch.tv/boxuchan)
 [![](https://img.shields.io/badge/-⠀YouTube⠀-%23181717?style=for-the-badge&logo=youtube&color=FF0000&logoColor=ffffff)](https://www.youtube.com/channel/UCrvSNYUK5xg2DwpbimJ9DwQ)
 [![](https://img.shields.io/badge/-⠀Twitter⠀-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Boxu_Chan)
@@ -9,17 +18,19 @@
 [![](https://img.shields.io/website?down_color=ff4c54&down_message=OFFLINE%20%E2%9D%8C&label=Boxu.fr&logo=pkgsrc&logoColor=ffffff&style=for-the-badge&up_message=ONLINE%20%E2%9C%94%EF%B8%8F&url=https%3A%2F%2Fboxu.fr)](https://boxu.fr/)
 [![](https://img.shields.io/badge/-⠀Linktree⠀-%23181717?style=for-the-badge&logo=linktree&color=31C3A2&logoColor=ffffff)](https://linktr.ee/boxu)
 [![](https://img.shields.io/badge/-⠀GitHub⠀-%23181717?style=for-the-badge&logo=github)](https://github.com/BoxuChan)
-[![](https://img.shields.io/badge/-⠀GoFundMe⠀-%23181717?style=for-the-badge&logo=gofundme)](https://github.com/BoxuChan)
-[![](https://img.shields.io/badge/-⠀Ko–Fi⠀-%23181717?style=for-the-badge&logo=kofi)](https://github.com/BoxuChan)
-[![](https://img.shields.io/badge/-⠀MyAnimeList⠀-%23181717?style=for-the-badge&logo=myanimelist)](https://github.com/BoxuChan)
-[![](https://img.shields.io/badge/-⠀Origin⠀-%23181717?style=for-the-badge&logo=origin)](https://github.com/BoxuChan)
-[![](https://img.shields.io/badge/-⠀osu!⠀-%23181717?style=for-the-badge&logo=osu)](https://github.com/BoxuChan)
-[![](https://img.shields.io/badge/-⠀PayPal⠀-%23181717?style=for-the-badge&logo=paypal)](https://github.com/BoxuChan)
-[![](https://img.shields.io/badge/-⠀Patreon⠀-%23181717?style=for-the-badge&logo=patreon)](https://github.com/BoxuChan)
+[![](https://img.shields.io/badge/-⠀GoFundMe⠀-%23181717?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/virtual-idol-dream-new-setup-vtuber-model?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
+[![](https://img.shields.io/badge/-⠀Ko–Fi⠀-%23181717?style=for-the-badge&logo=kofi)](https://ko-fi.com/boxuchan)
+[![](https://img.shields.io/badge/-⠀MyAnimeList⠀-%23181717?style=for-the-badge&logo=myanimelist)](https://myanimelist.net/profile/Boxu_Chan)
+[![](https://img.shields.io/badge/-⠀osu!⠀-%23181717?style=for-the-badge&logo=osu)](https://osu.ppy.sh/users/10614535)
+[![](https://img.shields.io/badge/-⠀PayPal⠀-%23181717?style=for-the-badge&logo=paypal)](https://paypal.me/BoxuTwitch)
+[![](https://img.shields.io/badge/-⠀Patreon⠀-%23181717?style=for-the-badge&logo=patreon)](https://patreon.com/Boxu)
 
 [![](https://img.shields.io/discord/932906923236401182?style=for-the-badge&logo=discord&logoColor=8f98ec&color=7289da&label=⠀Tower%20of%20Fantasy⠀)](https://discord.gg/dwmB5Vb6pT)
 [![](https://img.shields.io/discord/513390882771173397?style=for-the-badge&logo=discord&logoColor=8f98ec&color=7289da&label=⠀✧%20Hako%20|%20箱%20✽⠀)](https://discord.gg/BPVmDNC)
 [![](https://img.shields.io/discord/921159444673482833?style=for-the-badge&logo=discord&logoColor=8f98ec&color=7289da&label=⠀✦%20Mikazuki%20|%20三日月%20☾⠀)](https://discord.gg/z7J8pRatHU)
+  
+</div>
+</div>
 
 ![](https://img.shields.io/date/1037374200?style=for-the-badge&logo=homeassistantcommunitystore&label=⠀Birth%20Day⠀)
 ![](https://img.shields.io/date/1408113000?style=for-the-badge&logo=gnometerminal&label=⠀Started%20Coding⠀)
@@ -32,13 +43,14 @@ Creativity Softwares
 ![](https://img.shields.io/badge/-⠀After%20Premiere%20Pro⠀-%23000000?style=for-the-badge&logo=adobepremierepro)
 ![](https://img.shields.io/badge/-⠀After%20XD⠀-%23000000?style=for-the-badge&logo=adobexd)
 ![](https://img.shields.io/badge/-⠀Canva⠀-%23000000?style=for-the-badge&logo=canva)
+![](https://img.shields.io/badge/-⠀Figma⠀-%23000000?style=for-the-badge&logo=figma)
 ![](https://img.shields.io/badge/-⠀Cinema%204D⠀-%23000000?style=for-the-badge&logo=cinema4d)
 ![](https://img.shields.io/badge/-⠀Audacity⠀-%23000000?style=for-the-badge&logo=audacity)
 
 Languages
 
 ![](https://img.shields.io/badge/-⠀C⠀-%23000000?style=for-the-badge&logo=c)
-![](https://img.shields.io/badge/-⠀C#⠀-%23000000?style=for-the-badge&logo=csharp)
+![](https://img.shields.io/badge/-⠀C%23⠀-%23000000?style=for-the-badge&logo=csharp)
 ![](https://img.shields.io/badge/-⠀C++⠀-%23000000?style=for-the-badge&logo=cplusplus)
 ![](https://img.shields.io/badge/-⠀CSS3⠀-%23000000?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/-⠀HTML5⠀-%23000000?style=for-the-badge&logo=html5)
@@ -61,6 +73,7 @@ Frameworks & Libraries
 ![](https://img.shields.io/badge/-⠀Ionic⠀-%23000000?style=for-the-badge&logo=ionic)
 ![](https://img.shields.io/badge/-⠀JQuery⠀-%23000000?style=for-the-badge&logo=jquery)
 ![](https://img.shields.io/badge/-⠀Laravel⠀-%23000000?style=for-the-badge&logo=laravel)
+![](https://img.shields.io/badge/-⠀Node.JS⠀-%23000000?style=for-the-badge&logo=nodedotjs)
 ![](https://img.shields.io/badge/-⠀React⠀-%23000000?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/-⠀Semantic%20UI⠀-%23000000?style=for-the-badge&logo=semanticuireact)
 ![](https://img.shields.io/badge/-⠀Swiper⠀-%23000000?style=for-the-badge&logo=swiper)
