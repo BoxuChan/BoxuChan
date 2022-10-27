@@ -113,10 +113,10 @@
 ![](https://img.shields.io/badge/-⠀FL%20Studio%2012⠀-%23000000?style=for-the-badge&logo=instacart)
 <hr>
 
-![](https://img.shields.io/badge/-⠀Android⠀-%23000000?style=for-the-badge&logo=android)
-![](https://img.shields.io/badge/-⠀iOS⠀-%23000000?style=for-the-badge&logo=ios)
-![](https://img.shields.io/badge/-⠀Ubuntu⠀-%23000000?style=for-the-badge&logo=linux)
-![](https://img.shields.io/badge/-⠀Windows⠀-%23000000?style=for-the-badge&logo=windows)
+<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/android.png"/>
+<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/apple.png"/>
+<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/linux.png"/>
+<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/windows.png"/>
   
 </td>
 
@@ -140,6 +140,7 @@ Languages
 ![](https://img.shields.io/badge/-⠀Shell⠀-%23000000?style=flat-square&logo=powershell)
 ![](https://img.shields.io/badge/-⠀SQLite⠀-%23000000?style=flat-square&logo=sqlite)
 ![](https://img.shields.io/badge/-⠀TypeScript⠀-%23000000?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/-⠀.NET⠀-%23000000?style=flat-square&logo=dotnet)
 
 Frameworks & Libraries
 
@@ -163,6 +164,7 @@ Extra IT Softwares
 
 ![](https://img.shields.io/badge/-⠀Adminer⠀-%23000000?style=flat-square&logo=adminer)
 ![](https://img.shields.io/badge/-⠀Arduino⠀-%23000000?style=flat-square&logo=arduino)
+![](https://img.shields.io/badge/-⠀Cisco⠀-%23000000?style=flat-square&logo=cisco)
 ![](https://img.shields.io/badge/-⠀Cucumber⠀-%23000000?style=flat-square&logo=cucumber)
 ![](https://img.shields.io/badge/-⠀AutoHotkey⠀-%23000000?style=flat-square&logo=autohotkey)
 ![](https://img.shields.io/badge/-⠀Git⠀-%23000000?style=flat-square&logo=git)
@@ -173,9 +175,9 @@ Extra IT Softwares
 ![](https://img.shields.io/badge/-⠀Maven⠀-%23000000?style=flat-square&logo=apachemaven)
 ![](https://img.shields.io/badge/-⠀NPM⠀-%23000000?style=flat-square&logo=npm)
 ![](https://img.shields.io/badge/-⠀Oracle⠀-%23000000?style=flat-square&logo=oracle)
-![](https://img.shields.io/badge/-⠀PHPMyAdmin⠀-%23000000?style=flat-square&logo=phpmyadmin)
+![](https://img.shields.io/badge/-⠀SonarQube⠀-%23000000?style=flat-square&logo=sonarqube)
 ![](https://img.shields.io/badge/-⠀Virtual%20Box⠀-%23000000?style=flat-square&logo=virtualbox)
-![](https://img.shields.io/badge/-⠀WordPress⠀-%23000000?style=flat-square&logo=wordpress)
+![](https://img.shields.io/badge/-⠀XAMPP⠀-%23000000?style=flat-square&logo=xampp)
 
 IDE Softwares
 
@@ -197,8 +199,12 @@ IT Online Services
 ![](https://img.shields.io/badge/-⠀Curse%20Forge⠀-%23000000?style=flat-square&logo=curseforge)
 ![](https://img.shields.io/badge/-⠀CPanel⠀-%23000000?style=flat-square&logo=cpanel)
 ![](https://img.shields.io/badge/-⠀Heroku⠀-%23000000?style=flat-square&logo=heroku)
+![](https://img.shields.io/badge/-⠀MongoDB⠀-%23000000?style=flat-square&logo=mongodb)
 ![](https://img.shields.io/badge/-⠀OVH⠀-%23000000?style=flat-square&logo=ovh)
+![](https://img.shields.io/badge/-⠀PHPMyAdmin⠀-%23000000?style=flat-square&logo=phpmyadmin)
 ![](https://img.shields.io/badge/-⠀Plesk⠀-%23000000?style=flat-square&logo=plesk)
+![](https://img.shields.io/badge/-⠀Wix⠀-%23000000?style=flat-square&logo=wix)
+![](https://img.shields.io/badge/-⠀WordPress⠀-%23000000?style=flat-square&logo=wordpress)
   
 </td>
 </tr>
