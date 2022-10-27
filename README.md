@@ -7,10 +7,10 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/424901159824785409?animated=true&idleMessage=Peeking%20on%20me%20huh%3F%20Shame%20on%20you%2C%20I%27m%20not%20doing%20anything.)](https://discord.com/users/424901159824785409)
 <hr> 
   
-[![](https://img.shields.io/website?down_color=ff4c54&down_message=OFFLINE%20%E2%9D%8C&label=Boxu.fr&logo=pkgsrc&logoColor=ffffff&style=for-the-badge&up_message=ONLINE%20%E2%9C%94%EF%B8%8F&url=https%3A%2F%2Fboxu.fr)](https://boxu.fr/)
+[![](https://img.shields.io/website?down_color=ff4c54&down_message=OFFLINE&label=Boxu.fr&logo=pkgsrc&logoColor=ffffff&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fboxu.fr)](https://boxu.fr/)
 [![](https://img.shields.io/twitch/status/BoxuChan?logo=twitch&logoColor=ffffff&style=for-the-badge)](https://twitch.tv/boxuchan)
-[![](https://dcbadge.vercel.app/api/shield/978191616072368140?bot=true?down_color=ff4c54&down_message=OFFLINE%20%E2%9D%8C&logoColor=ffffff&style=for-the-badge&up_message=ONLINE%20%E2%9C%94%EF%B8%8F&theme=clean-inverted)](https://discord.com/users/978191616072368140)
-[![](https://dcbadge.vercel.app/api/shield/980304694486368267?bot=true?down_color=ff4c54&down_message=OFFLINE%20%E2%9D%8C&logoColor=ffffff&style=for-the-badge&up_message=ONLINE%20%E2%9C%94%EF%B8%8F&theme=clean-inverted)](https://discord.com/users/980304694486368267)
+[![](https://dcbadge.vercel.app/api/shield/978191616072368140?bot=true?down_color=ff4c54&down_message=OFFLINE&logoColor=ffffff&style=for-the-badge&up_message=ONLINE&theme=clean-inverted)](https://discord.com/users/978191616072368140)
+[![](https://dcbadge.vercel.app/api/shield/980304694486368267?bot=true?down_color=ff4c54&down_message=OFFLINE&logoColor=ffffff&style=for-the-badge&up_message=ONLINE&theme=clean-inverted)](https://discord.com/users/980304694486368267)
 <hr> 
   
 [![](https://img.shields.io/discord/932906923236401182?style=for-the-badge&logo=discord&logoColor=ffffff&color=7289da&label=⠀Tower%20of%20Fantasy⠀)](https://discord.gg/dwmB5Vb6pT)
@@ -18,11 +18,11 @@
 [![](https://img.shields.io/discord/921159444673482833?style=for-the-badge&logo=discord&logoColor=ffffff&color=7289da&label=⠀✦%20Mikazuki%20|%20三日月%20☾⠀)](https://discord.gg/z7J8pRatHU)
 <hr> 
   
-![](https://img.shields.io/date/1037374200?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=ffffff&label=⠀Was%20Born⠀)
-![](https://img.shields.io/date/1132068600?style=for-the-badge&logo=penpot&label=⠀Started%20Drawing⠀)
-![](https://img.shields.io/date/1163604600?style=for-the-badge&logo=republicofgamers&label=⠀Started%20Gaming⠀)
-![](https://img.shields.io/date/1408113000?style=for-the-badge&logo=gnometerminal&label=⠀Started%20Coding⠀)
-![](https://img.shields.io/date/1438180200?style=for-the-badge&logo=youtube&label=⠀Created%20Content⠀)
+![](https://img.shields.io/date/1037374200?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=ffffff&label=⠀Was%20Born⠀&color=681717)
+![](https://img.shields.io/date/1132068600?style=for-the-badge&logo=deviantart&label=⠀Started%20Drawing⠀&color=681717&logoColor=ffffff)
+![](https://img.shields.io/date/1163604600?style=for-the-badge&logo=applearcade&label=⠀Started%20Gaming⠀&color=681717&logoColor=ffffff)
+![](https://img.shields.io/date/1408113000?style=for-the-badge&logo=codersrank&label=⠀Started%20Coding⠀&color=681717&logoColor=ffffff)
+![](https://img.shields.io/date/1438180200?style=for-the-badge&logo=youtube&label=⠀Created%20Content⠀&color=681717&logoColor=ffffff)
 
 <img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/great%20britain.png"/>
 <img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/france.png"/>
@@ -34,13 +34,13 @@
   
 ✿⠀𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗠𝗲⠀✿
   
-[![](https://img.shields.io/badge/-⠀PayPal⠀-%23181717?style=for-the-badge&logo=paypal)](https://paypal.me/BoxuTwitch)
-[![](https://img.shields.io/badge/-⠀Ko–Fi⠀-%23181717?style=for-the-badge&logo=kofi)](https://ko-fi.com/boxuchan)
-[![](https://img.shields.io/badge/-⠀GoFundMe⠀-%23181717?style=for-the-badge&logo=gofundme)](https://www.gofundme.com/f/virtual-idol-dream-new-setup-vtuber-model?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
-[![](https://img.shields.io/badge/-⠀Patreon⠀-%23181717?style=for-the-badge&logo=patreon)](https://patreon.com/Boxu)
-[![](https://img.shields.io/badge/-⠀Throne⠀-%23181717?style=for-the-badge&logo=streamlit)](https://throne.me/u/boxu/)
+[![](https://img.shields.io/badge/-⠀PayPal⠀-%23181717?style=for-the-badge&logo=paypal&color=00457C&logoColor=ffffff)](https://paypal.me/BoxuTwitch)
+[![](https://img.shields.io/badge/-⠀Ko–Fi⠀-%23181717?style=for-the-badge&logo=kofi&color=FF5E5B&logoColor=ffffff)](https://ko-fi.com/boxuchan)
+[![](https://img.shields.io/badge/-⠀GoFundMe⠀-%23181717?style=for-the-badge&logo=gofundme&color=00B964&logoColor=ffffff)](https://www.gofundme.com/f/virtual-idol-dream-new-setup-vtuber-model?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
+[![](https://img.shields.io/badge/-⠀Patreon⠀-%23181717?style=for-the-badge&logo=patreon&color=FF424D&logoColor=ffffff)](https://patreon.com/Boxu)
+[![](https://img.shields.io/badge/-⠀Throne⠀-%23181717?style=for-the-badge&logo=streamlit&color=6838df&logoColor=ffffff)](https://throne.me/u/boxu/)
 
-<img height="40" src="https://raw.githubusercontent.com/boxuchan/boxuchan/master/assets/kyubey.gif"/>
+<br><img height="50" src="https://raw.githubusercontent.com/boxuchan/boxuchan/master/assets/kyubey.gif"/>
   
 </td>
 
@@ -56,7 +56,7 @@
 [![](https://img.shields.io/badge/-⠀Twitter⠀-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Boxu_Chan)
 [![](https://img.shields.io/badge/-⠀Instagram⠀-%23181717?style=for-the-badge&logo=instagram&color=E1306C&logoColor=ffffff)](https://instagram.com/boxu.chan)
 [![](https://img.shields.io/badge/-⠀GitHub⠀-%23181717?style=for-the-badge&logo=github)](https://github.com/BoxuChan)
-[![](https://img.shields.io/badge/-⠀MyAnimeList⠀-%23181717?style=for-the-badge&logo=myanimelist)](https://myanimelist.net/profile/Boxu_Chan)
+[![](https://img.shields.io/badge/-⠀MyAnimeList⠀-%23181717?style=for-the-badge&logo=myanimelist&color=3b4a9d&logoColor=ffffff)](https://myanimelist.net/profile/Boxu_Chan)
 [![](https://img.shields.io/badge/-⠀Linktree⠀-%23181717?style=for-the-badge&logo=linktree&color=31C3A2&logoColor=ffffff)](https://linktr.ee/boxu)
 <hr>
   
@@ -64,7 +64,10 @@
   
 [![](https://img.shields.io/badge/-⠀Steam⠀-%23181717?style=for-the-badge&logo=steam&color=171a21&logoColor=ffffff)](https://steamcommunity.com/id/BoxuChan)
 [![](https://img.shields.io/badge/-⠀Xbox⠀-%23181717?style=for-the-badge&logo=xbox&color=107C10&logoColor=ffffff)](https://account.xbox.com/en-us/profile?gamertag=BoxuChan)
-[![](https://img.shields.io/badge/-⠀osu!⠀-%23181717?style=for-the-badge&logo=osu)](https://osu.ppy.sh/users/10614535)
+[![](https://img.shields.io/badge/-⠀osu!⠀-%23181717?style=for-the-badge&logo=osu&color=FF66AA&logoColor=ffffff)](https://osu.ppy.sh/users/10614535)
+![](https://img.shields.io/badge/-⠀BoxuChan⠀-%23181717?style=for-the-badge&logo=epicgames&color=313131&logoColor=ffffff)
+![](https://img.shields.io/badge/-⠀Lagia%2321587⠀-%23181717?style=for-the-badge&logo=battledotnet&color=148EFF&logoColor=ffffff)
+![](https://img.shields.io/badge/-⠀Aiya%23Hako⠀-%23181717?style=for-the-badge&logo=riotgames&color=D32936&logoColor=ffffff)
 <hr>
   
 ♛⠀𝗠𝘆 𝗦𝗲𝘁𝘂𝗽⠀♛
@@ -78,14 +81,14 @@
   
 ![](https://img.shields.io/badge/-⠀ASUS%20PRIME%20B660–PLUS%20D4⠀-%23000000?style=for-the-badge&logo=asus)
 ![](https://img.shields.io/badge/-⠀NVIDIA%20GeForce%20RTX%203080⠀-%23000000?style=for-the-badge&logo=nvidia)
-![](https://img.shields.io/badge/-⠀12th%20Gen%20Intel(R)%20Core(TM)%20i5–12600K%20@%204.20%20GHz⠀-%23000000?style=for-the-badge&logo=intel)
-![](https://img.shields.io/badge/-⠀16%20GB%20Corsair%20Vengeance%20RGB%20PRO%20DDR4%20(3200MHz)⠀-%23000000?style=for-the-badge&logo=corsair)
+![](https://img.shields.io/badge/-⠀12th%20Gen%20Intel(R)%20Core(TM)%20i5–12600K%20@%204.20%20GHz⠀-%23000000?style=for-the-badge&logo=intel&logoColor=148EFF)
+![](https://img.shields.io/badge/-⠀16%20GB%20Corsair%20Vengeance%20RGB%20PRO%20DDR4%20(3200MHz)⠀-%23000000?style=for-the-badge&logo=corsair&logoColor=68f3d4)
 ![](https://img.shields.io/badge/-⠀H510%20Mid–Tower%20Case⠀-%23000000?style=for-the-badge&logo=nzxt)
 ![](https://img.shields.io/badge/-⠀Dell%20SE2222H%20x2⠀-%23000000?style=for-the-badge&logo=dell)
-![](https://img.shields.io/badge/-⠀1.0%20TB%20WD_BLACK%20SN850%20M.2%20NVMe%20(7000%20MB/s)⠀-%23000000?style=for-the-badge&logo=westerndigital)
 ![](https://img.shields.io/badge/-⠀2.0%20TB%20Seagate%20BarraCuda%20HDD%20(7200%20RPM)⠀-%23000000?style=for-the-badge&logo=seagate)
-![](https://img.shields.io/badge/-⠀Cherry%20MX%20Brown%20Varmilo%20VEA88%20Sakura⠀-%23000000?style=for-the-badge&logo=adafruit)
-![](https://img.shields.io/badge/-⠀Corsair%20Scimitar%20ELITE%20RGB⠀-%23000000?style=for-the-badge&logo=corsair)
+![](https://img.shields.io/badge/-⠀1.0%20TB%20WD_BLACK%20SN850%20M.2%20NVMe%20(7000%20MB/s)⠀-%23000000?style=for-the-badge&logo=westerndigital)
+![](https://img.shields.io/badge/-⠀Cherry%20MX%20Brown%20Varmilo%20VEA88%20Sakura⠀-%23000000?style=for-the-badge&logo=adafruit&logoColor=FF66AA)
+![](https://img.shields.io/badge/-⠀Corsair%20Scimitar%20ELITE%20RGB⠀-%23000000?style=for-the-badge&logo=corsair&logoColor=68f3d4)
   
 </td>
 </tr>
@@ -113,10 +116,10 @@
 ![](https://img.shields.io/badge/-⠀FL%20Studio%2012⠀-%23000000?style=for-the-badge&logo=instacart)
 <hr>
 
-<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/android.png"/>
-<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/apple.png"/>
-<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/linux.png"/>
-<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/windows.png"/>
+<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/android-new.png"/>
+<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/apple-new.png"/>
+<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/linux-new.png"/>
+<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/windows-new.png"/>
   
 </td>
 
