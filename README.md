@@ -145,7 +145,7 @@
 ![](https://img.shields.io/badge/-⠀TypeScript⠀-%23000000?style=flat-square&logo=typescript&logoColor=ffffff&color=3178C6)
 ![](https://img.shields.io/badge/-⠀.NET⠀-%23000000?style=flat-square&logo=dotnet&logoColor=ffffff&color=512BD4)
 
-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬
+<br>𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬
 
 ![](https://img.shields.io/badge/-⠀Angular⠀-%23000000?style=flat-square&logo=angular&logoColor=ffffff&color=DD0031)
 ![](https://img.shields.io/badge/-⠀AngularJS⠀-%23000000?style=flat-square&logo=angularjs&logoColor=ffffff&color=E23237)
@@ -163,7 +163,7 @@
 ![](https://img.shields.io/badge/-⠀Symfony⠀-%23000000?style=flat-square&logo=symfony&logoColor=ffffff&color=000000)
 ![](https://img.shields.io/badge/-⠀Vue.JS⠀-%23000000?style=flat-square&logo=vuedotjs&logoColor=ffffff&color=4FC08D)
   
-𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞𝐬
+<br>𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞𝐬
 
 ![](https://img.shields.io/badge/-⠀Adminer⠀-%23000000?style=flat-square&logo=adminer&logoColor=ffffff&color=34567C)
 ![](https://img.shields.io/badge/-⠀Arduino⠀-%23000000?style=flat-square&logo=arduino&logoColor=ffffff&color=00979D)
@@ -182,7 +182,7 @@
 ![](https://img.shields.io/badge/-⠀Virtual%20Box⠀-%23000000?style=flat-square&logo=virtualbox&logoColor=ffffff&color=183A61)
 ![](https://img.shields.io/badge/-⠀XAMPP⠀-%23000000?style=flat-square&logo=xampp&logoColor=ffffff&color=FB7A24)
 
-𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬
+<br>𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬
 
 ![](https://img.shields.io/badge/-⠀Android%20Studio⠀-%23000000?style=flat-square&logo=androidstudio&logoColor=ffffff&color=3DDC84)
 ![](https://img.shields.io/badge/-⠀Apache%20NetBeans%20IDE⠀-%23000000?style=flat-square&logo=apachenetbeanside&logoColor=ffffff&color=)
@@ -196,7 +196,7 @@
 ![](https://img.shields.io/badge/-⠀Visual%20Studio⠀-%23000000?style=flat-square&logo=visualstudio&logoColor=ffffff&color=5C2D91)
 ![](https://img.shields.io/badge/-⠀Visual%20Studio%20Code⠀-%23000000?style=flat-square&logo=visualstudiocode&logoColor=ffffff&color=007ACC)
 
-𝐇𝐨𝐬𝐭𝐬 & 𝐎𝐧𝐥𝐢𝐧𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬
+<br>𝐇𝐨𝐬𝐭𝐬 & 𝐎𝐧𝐥𝐢𝐧𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬
 
 ![](https://img.shields.io/badge/-⠀Atlassian⠀-%23000000?style=flat-square&logo=atlassian&logoColor=ffffff&color=0052CC)
 ![](https://img.shields.io/badge/-⠀Curse%20Forge⠀-%23000000?style=flat-square&logo=curseforge&logoColor=ffffff&color=6441A4)
