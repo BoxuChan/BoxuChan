@@ -124,6 +124,7 @@
 
 Languages
 
+![](https://img.shields.io/badge/-⠀Bash⠀-%23000000?style=flat-square&logo=gnubash)
 ![](https://img.shields.io/badge/-⠀C⠀-%23000000?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/-⠀C%23⠀-%23000000?style=flat-square&logo=csharp)
 ![](https://img.shields.io/badge/-⠀C++⠀-%23000000?style=flat-square&logo=cplusplus)
@@ -136,6 +137,7 @@ Languages
 ![](https://img.shields.io/badge/-⠀PHP⠀-%23000000?style=flat-square&logo=php)
 ![](https://img.shields.io/badge/-⠀Python⠀-%23000000?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/-⠀R⠀-%23000000?style=flat-square&logo=r)
+![](https://img.shields.io/badge/-⠀Shell⠀-%23000000?style=flat-square&logo=powershell)
 ![](https://img.shields.io/badge/-⠀SQLite⠀-%23000000?style=flat-square&logo=sqlite)
 ![](https://img.shields.io/badge/-⠀TypeScript⠀-%23000000?style=flat-square&logo=typescript)
 
