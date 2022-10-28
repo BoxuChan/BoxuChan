@@ -98,7 +98,7 @@
 <tr>
 <td align="center" width="40%">
   
-<img height="300" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/pen-trick.gif"/>
+<img src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/pen-trick.gif"/>
 <hr>
   
 ![](https://img.shields.io/badge/-⠀Adobe%20After%20Effects⠀-%23000000?style=for-the-badge&logo=adobeaftereffects&logoColor=ffffff&color=8c7cd6)
