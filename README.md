@@ -7,7 +7,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/424901159824785409?animated=true&idleMessage=Peeking%20on%20me%20huh%3F%20Shame%20on%20you%2C%20I%27m%20not%20doing%20anything.)](https://discord.com/users/424901159824785409)
 <hr> 
   
-[![](https://img.shields.io/website?down_color=ff4c54&down_message=OFFLINE&label=Boxu.fr&logo=pkgsrc&logoColor=ffffff&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fboxu.fr)](https://boxu.fr/)
+[![](https://img.shields.io/website?down_color=ff4c54&down_message=OFFLINE&label=Boxu.fr&logo=pkgsrc&logoColor=ffffff&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fboxu.fr&up_color=008a4a)](https://boxu.fr/)
 [![](https://img.shields.io/twitch/status/BoxuChan?logo=twitch&logoColor=ffffff&style=for-the-badge)](https://twitch.tv/boxuchan)
 [![](https://dcbadge.vercel.app/api/shield/978191616072368140?bot=true?down_color=ff4c54&down_message=OFFLINE&logoColor=ffffff&style=for-the-badge&up_message=ONLINE&theme=clean-inverted)](https://discord.com/users/978191616072368140)
 [![](https://dcbadge.vercel.app/api/shield/980304694486368267?bot=true?down_color=ff4c54&down_message=OFFLINE&logoColor=ffffff&style=for-the-badge&up_message=ONLINE&theme=clean-inverted)](https://discord.com/users/980304694486368267)
