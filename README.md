@@ -66,7 +66,7 @@
 [![](https://img.shields.io/badge/-⠀Xbox⠀-%23181717?style=for-the-badge&logo=xbox&color=107C10&logoColor=ffffff)](https://account.xbox.com/en-us/profile?gamertag=BoxuChan)
 [![](https://img.shields.io/badge/-⠀osu!⠀-%23181717?style=for-the-badge&logo=osu&color=FF66AA&logoColor=ffffff)](https://osu.ppy.sh/users/10614535)
 ![](https://img.shields.io/badge/-⠀BoxuChan⠀-%23181717?style=for-the-badge&logo=epicgames&color=313131&logoColor=ffffff)
-![](https://img.shields.io/badge/-⠀Lagia%2321587⠀-%23181717?style=for-the-badge&logo=battledotnet&color=148EFF&logoColor=ffffff)
+![](https://img.shields.io/badge/-⠀Boxu%2321452⠀-%23181717?style=for-the-badge&logo=battledotnet&color=148EFF&logoColor=ffffff)
 ![](https://img.shields.io/badge/-⠀Aiya%23Hako⠀-%23181717?style=for-the-badge&logo=riotgames&color=D32936&logoColor=ffffff)
 <hr>
   
