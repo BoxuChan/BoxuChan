@@ -37,7 +37,7 @@
 [![](https://img.shields.io/badge/-⠀PayPal⠀-%23181717?style=for-the-badge&logo=paypal&color=00457C&logoColor=ffffff)](https://streamlabs.com/boxuchan/tip)
 [![](https://img.shields.io/badge/-⠀Ko–Fi⠀-%23181717?style=for-the-badge&logo=kofi&color=FF5E5B&logoColor=ffffff)](https://ko-fi.com/boxuchan)
 [![](https://img.shields.io/badge/-⠀GoFundMe⠀-%23181717?style=for-the-badge&logo=gofundme&color=00B964&logoColor=ffffff)](https://www.gofundme.com/f/virtual-idol-dream-new-setup-vtuber-model?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
-[![](https://img.shields.io/badge/-⠀Patreon⠀-%23181717?style=for-the-badge&logo=patreon&color=FF424D&logoColor=ffffff)](https://patreon.com/Boxu)
+[![](https://img.shields.io/badge/-⠀Patreon⠀-%23181717?style=for-the-badge&logo=patreon&color=FF424D&logoColor=ffffff)](https://patreon.com/Mikazuki)
 [![](https://img.shields.io/badge/-⠀Throne⠀-%23181717?style=for-the-badge&logo=streamlit&color=6838df&logoColor=ffffff)](https://throne.me/u/boxu/)
 
 <br><img height="50" src="https://raw.githubusercontent.com/boxuchan/boxuchan/master/assets/kyubey.gif"/>
