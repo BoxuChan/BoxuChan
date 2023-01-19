@@ -15,7 +15,6 @@
   
 [![](https://img.shields.io/discord/932906923236401182?style=for-the-badge&logo=discord&logoColor=ffffff&color=7289da&label=⠀Tower%20of%20Fantasy⠀)](https://discord.gg/dwmB5Vb6pT)
 [![](https://img.shields.io/discord/513390882771173397?style=for-the-badge&logo=discord&logoColor=ffffff&color=7289da&label=⠀✧%20Hako%20|%20箱%20✽⠀)](https://discord.gg/BPVmDNC)
-[![](https://img.shields.io/discord/921159444673482833?style=for-the-badge&logo=discord&logoColor=ffffff&color=7289da&label=⠀✦%20Mikazuki%20|%20三日月%20☾⠀)](https://discord.gg/z7J8pRatHU)
 <hr> 
   
 ![](https://img.shields.io/date/1037374200?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=ffffff&label=⠀Was%20Born⠀&color=681717)
