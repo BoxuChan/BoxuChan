@@ -72,7 +72,7 @@
 ♛⠀𝗠𝘆 𝗦𝗲𝘁𝘂𝗽⠀♛
 <br><br>
 <img height="30" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/speedL.gif"/>
-<a href="https://boxu.fr/filtered-AF67E70F-CAA5-4922-A5C8-CA86ED99211C.mp4">
+<a href="https://old.boxu.fr/filtered-AF67E70F-CAA5-4922-A5C8-CA86ED99211C.mp4">
 <img height="30" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/photo.png"/>
 </a>
 <img height="30" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/speedR.gif"/>
